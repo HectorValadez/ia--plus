@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+    background-image: url(inteligencia-artificial-770x400.jpg);
+    background-size: cover;
+    color: magenta;
+}
+canvas{
+    margin-top: 60px;
+    margin-left: 30px;
+    border-radius: 120px;
+}
